@@ -16,7 +16,7 @@ This page will be updated after every lesson. The schedule is the following:
 
 1. **(05/05/2021)** Introduction to web technologies and creation of a static
 website.
-   * [slides](/slides/introduction.odp)
+   * [slides](/slides/introduction.pdf)
    * [code](/code/web_tutoring_1.zip)
 2. **(12/05/2021)** Creation of a dynamic website
 3. **(19/05/2021)** Creation and interaction with a database
