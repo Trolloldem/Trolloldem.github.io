@@ -19,9 +19,12 @@ paginate     = 10
   # Enable sharing buttons, if you linke
   enableSharingButtons = true
 
+  # Enable Theme Toggle button
+  EnableThemeToggle = true
+
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "Personal page of Gianluca Oldani"
+  keywords = "PhD, Security, Databases, Web"
   images = [""]
 
   # Default theme "light" or "dark"
