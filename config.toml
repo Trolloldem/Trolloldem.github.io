@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseURL = "https://trolloldem.github.io/"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -61,7 +61,4 @@ paginate     = 10
   [[menu.main]]
     identifier  = "teaching"
     name       = "Teaching"
-    url        = "/teaching"
-[[resources]]
-  name = "code"
-  src = "resources/code/web_tutoring_1.zip"
+    url        = "teaching/"
