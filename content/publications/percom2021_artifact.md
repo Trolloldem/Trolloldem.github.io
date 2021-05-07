@@ -7,10 +7,10 @@ aliases = ["Spark","Distributed","K-Anonymity","Privacy", "Mosaicrown"]
 +++
 
 This Artifact describes how we implemented the solution described in
-[*Scalable Distributed Data Anonymization*](/publications/percom2021)
+<a href="../../publications/percom2021" target="_blank"><em>Scalable Distributed Data Anonymization</em></a>
 and how to reproduce the experimental results described in the paper.
 The submitted artifact is publicly available and can be retrieved in
-[its repository](https://github.com/mosaicrown/mondrian/tree/percom2021_artifact).
+<a href="https://github.com/mosaicrown/mondrian/tree/percom2021_artifact" target="_blank">its repository</a>.
 
 ##### Artifact Evaluation results:
 <div style="display: grid; grid-template-columns: 25% 25%; grid-column-gap: 5%">
@@ -23,6 +23,6 @@ The submitted artifact is publicly available and can be retrieved in
 ##### Authors:
 Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati
 
-##### [PerCom 2021](http://www.percom.org/)
+##### <a href="http://www.percom.org/" target="_blank">PerCom 2021</a>
 
-##### [Link to PDF](https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf)
+##### <a href="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf" target="_blank">Link to PDF</a>

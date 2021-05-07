@@ -18,6 +18,6 @@ scalable and do not affect the quality of the anonymized dataset.
 ##### Authors:
 Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati
 
-##### [PerCom 2021](http://www.percom.org/)
+##### <a href="http://www.percom.org/" target="_blank">PerCom 2021</a>
 
-##### [Link to PDF](https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf)
+##### <a href="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian.pdf" target="_blank">Link to PDF</a>
