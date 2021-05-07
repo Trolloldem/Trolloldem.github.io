@@ -65,3 +65,11 @@ paginate     = 10
     identifier  = "teaching"
     name       = "Teaching"
     url        = "teaching/"
+  [[menu.main]]
+    identifier  = "publications"
+    name       = "Publications"
+    url        = "publications/"
+    [markup]
+      [markup.goldmark]
+        [markup.goldmark.renderer]
+          unsafe = true

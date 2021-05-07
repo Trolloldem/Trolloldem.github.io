@@ -1,0 +1,28 @@
++++
+title = "Artifact: Scalable Distributed Data Anonymization"
+date = "2021-03-22"
+aliases = ["Spark","Distributed","K-Anonymity","Privacy", "Mosaicrown"]
+[ author ]
+  name = "Gianluca Oldani"
++++
+
+This Artifact describes how we implemented the solution described in
+[*Scalable Distributed Data Anonymization*](/publications/percom2021)
+and how to reproduce the experimental results described in the paper.
+The submitted artifact is publicly available and can be retrieved in
+[its repository](https://github.com/mosaicrown/mondrian/tree/percom2021_artifact).
+
+##### Artifact Evaluation results:
+<div style="display: grid; grid-template-columns: 25% 25%; grid-column-gap: 5%">
+  <img alt="Artifact Certified" src="../../img/ArtifactCertified.png"/>
+  <img alt="Results Certified" src="../../img/ResultsCertified.png"/>
+</div>
+
+##### Awards: PERCOM 2021 Best Artifact Award
+
+##### Authors:
+Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati
+
+##### [PerCom 2021](http://www.percom.org/)
+
+##### [Link to PDF](https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf)
