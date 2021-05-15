@@ -14,10 +14,12 @@ asked **using your student email** will receive an answer.
 
 This page will be updated after every lesson. The schedule is the following:
 
-1. **(05/05/2021)** Introduction to web technologies and creation of a static
+1. **(05/05/2021)** Introduction to web technologies and creation of a stzatic
 website.
    * [slides](/slides/introduction.pdf)
    * [code](/code/web_tutoring_1.zip)
 2. **(12/05/2021)** Creation of a dynamic website
    * software installation guides: [Windows](/guides/python3_windows.pdf), [Ubuntu](/guides/python3_ubuntu.pdf)
+   * [python introduction code](/code/intro.py)
+   * [web app code](/code/web_tutoring_2.zip) (**Read the README before running the app**)
 3. **(19/05/2021)** Creation and interaction with a database
