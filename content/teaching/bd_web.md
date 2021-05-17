@@ -24,3 +24,4 @@ website.
    * [python introduction code](/code/intro.py)
    * [web app code](/code/web_tutoring_2.zip) (**Read the README before running the app**)
 3. **(19/05/2021)** Creation and interaction with a database
+   * [SQLite Installation Guide](/guides/SQLite_Installation_Guide.pdf)
