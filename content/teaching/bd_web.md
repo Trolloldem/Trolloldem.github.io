@@ -20,6 +20,7 @@ website.
    * [code](/code/web_tutoring_1.zip)
 2. **(12/05/2021)** Creation of a dynamic website
    * software installation guides: [Windows](/guides/python3_windows.pdf), [Ubuntu](/guides/python3_ubuntu.pdf)
+   * [slides](/slides/server.pdf)
    * [python introduction code](/code/intro.py)
    * [web app code](/code/web_tutoring_2.zip) (**Read the README before running the app**)
 3. **(19/05/2021)** Creation and interaction with a database
