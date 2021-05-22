@@ -27,6 +27,6 @@ website.
    * [SQLite Installation Guide](/guides/SQLite_Installation_Guide.pdf)
    * [slides](/slides/db.pdf)
    * [web app code](/code/web_tutoring_3.zip) (**Read the README before running the app**)
-3. **(20/05/2021)** Javascript introduction
+3. **(20/05/2021)** Javascript introduction - Tutoring held by [Matthew Rossi](https://matthewrossi.github.io/)
    * [slides](/slides/js_introduction.pdf)
 
