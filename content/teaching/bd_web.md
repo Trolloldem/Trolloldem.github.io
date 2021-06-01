@@ -38,7 +38,7 @@ website
    * [slides](/slides/microservices.pdf)
    * [code](/code/microservices.zip)
 
-7. **(31/05/2021)** NoSQL databases and MongoDB - Tutoring held by [Matthew Rossi](https://matthewrossi.github.io/)
+7. **(1/06/2021)** NoSQL databases and MongoDB - Tutoring held by [Matthew Rossi](https://matthewrossi.github.io/)
    * [slides](/slides/mongodb.pdf)
    * [code](/code/mongodb.zip)
 
