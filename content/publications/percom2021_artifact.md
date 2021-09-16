@@ -23,6 +23,6 @@ The submitted artifact is publicly available and can be retrieved in
 ##### Authors:
 Sabrina De Capitani di Vimercati, Dario Facchinetti, Sara Foresti, Gianluca Oldani, Stefano Paraboschi, Matthew Rossi, Pierangela Samarati
 
-##### <a href="http://www.percom.org/" target="_blank">PerCom 2021</a>
+##### <a href="http://percom.uta.edu/" target="_blank">PerCom 2021</a>
 
 ##### <a href="https://cs.unibg.it/seclab-papers/2021/PerCom/mondrian-artifact.pdf" target="_blank">Link to PDF</a>
