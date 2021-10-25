@@ -4,6 +4,8 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+pluralizelisttitles = false
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -63,8 +65,8 @@ paginate     = 10
 
   [[menu.main]]
     identifier  = "teaching"
-    name       = "Teaching"
-    url        = "teaching/"
+    name       = "Teachings"
+    url        = "teachings/"
   [[menu.main]]
     identifier  = "publications"
     name       = "Publications"
