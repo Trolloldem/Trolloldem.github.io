@@ -32,6 +32,16 @@ pluralizelisttitles = false
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/Trolloldem"
+
+  [[params.social]]
+      name = "linkedin"
+      url = "https://www.linkedin.com/in/gianluca-oldani-632100168/"
+
+
 [author]
     name = "Gianluca Oldani"
 
