@@ -19,7 +19,7 @@ Gianluca Oldani and Matthew Rossi
    * [Introduction slides](/slides/introduction.pdf)
 2. **(18/05/2022)** Topics to be defined - Tutoring held by 
 Gianluca Oldani and Matthew Rossi
-   * [Code of the first two lessons](/code/code/web_tutoring1_2.zip)
+   * [Code of the first two lessons](/code/web_tutoring1_2.zip)
 3. **(23/05/2022)** Topics to be defined - Tutoring held by 
 Gianluca Oldani and Matthew Rossi
    * software installation guides: [Windows](/guides/python3_windows.pdf), [Ubuntu](/guides/python3_ubuntu.pdf)
