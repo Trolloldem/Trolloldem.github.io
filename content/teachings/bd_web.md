@@ -25,6 +25,8 @@ Gianluca Oldani and Matthew Rossi
 3. **(23/05/2022)** Web backend with Python and Flask - Tutoring held by 
 Gianluca Oldani and Matthew Rossi
    * software installation guides: [Windows](/guides/python3_windows.pdf), [Ubuntu](/guides/python3_ubuntu.pdf)
-4. **(25/05/2022)** Topics to be defined - Tutoring held by 
+   * [Slides](/slides/server.pdf)
+   * [Code](/code/web_tutoring_3.zip)
+4. **(25/05/2022)** Database interaction - Tutoring held by 
 Gianluca Oldani and Matthew Rossi
    * Slides and code will be available after the lesson
