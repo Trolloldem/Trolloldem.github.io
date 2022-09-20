@@ -41,6 +41,10 @@ pluralizelisttitles = false
       name = "linkedin"
       url = "https://www.linkedin.com/in/gianluca-oldani-632100168/"
 
+  [[params.social]]
+      name = "stackoverflow"
+      url = "https://stackoverflow.com/users/14083453/trolloldem"
+
 
 [author]
     name = "Gianluca Oldani"
