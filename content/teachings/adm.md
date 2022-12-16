@@ -19,4 +19,6 @@ Gianluca Oldani
    * [Slides](/slides/mondrian.pdf)
 2. **(16/12/2022)** Job Scheduling on a cluster + Introduction to NLP - Tutoring held by Gianluca Oldani
    * [Slides](/slides/nlp.pdf)
+   * [Quartz main class](/adm_code/main.java), [Job class](/adm_code/SimpleJob.java), [pom.xml](/adm_code/pom.xml) and [quartz.properties](/adm_code/quartz.properties)
+   * [Spam filter](/adm_code/main.py), [dependencies](/adm_code/requirements.txt) and [train data](https://github.com/aditimukerjee/NLP-Bag-of-Words/blob/main/SMSSpamCollection)
 3. **(21/12/2022)** TBD 
