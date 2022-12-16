@@ -17,6 +17,6 @@ This page will be updated after every lesson. The schedule is the following:
 1. **(14/12/2022)** Introduction to K-Anonymity + L-Diversirty and Mondrian - Tutoring held by 
 Gianluca Oldani
    * [Slides](/slides/mondrian.pdf)
-2. **(16/12/2022)** Job Scheduling on a cluster + Introduction to NLP - Tutoring held by 
-Gianluca Oldani
+2. **(16/12/2022)** Job Scheduling on a cluster + Introduction to NLP - Tutoring held by Gianluca Oldani
+   * [Slides](/slides/nlp.pdf)
 3. **(21/12/2022)** TBD 
