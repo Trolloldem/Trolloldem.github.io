@@ -23,3 +23,6 @@ Gianluca Oldani
    * [Spam filter](/adm_code/main.py), [dependencies](/adm_code/requirements.txt) and [train data](https://github.com/aditimukerjee/NLP-Bag-of-Words/blob/main/SMSSpamCollection)
 3. **(21/12/2022)** Frequency analysis + NLP - Semantic techniques - Tutoring held by Gianluca Oldani
    * [Slides](/slides/semantic.pdf)
+   * [caesar.py](/adm_code/caesar.py)
+   * [Code to break repeating XOR](/adm_code/break_vigenere.zip)
+   * [Word2Vec with gensim](/adm_code/w2v.py)
