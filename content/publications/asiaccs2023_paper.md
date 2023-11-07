@@ -28,6 +28,6 @@ recent CVEs, while runtime experiments prove its efficiency.
 ##### Authors:
 Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew Rossi, Stefano Paraboschi
 
-##### The Paper will be presented at:&nbsp;<a href="https://asiaccs2023.org/" target="_blank">AsiaCCS 2023</a>
+##### The Paper has been presented at:&nbsp;<a href="https://asiaccs2023.org/" target="_blank">AsiaCCS 2023</a>
 
 ##### <a href="https://cs.unibg.it/seclab-papers/2023/ASIACCS/paper/cage4deno.pdf" target="_blank">Link to PDF</a>

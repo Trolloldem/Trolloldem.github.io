@@ -10,6 +10,6 @@ In this work we propose a solution aimed at enhancing the security of the sandbo
 ##### Authors:
 Marco Abbadini, Michele Beretta, Dario Facchinetti, Gianluca Oldani, Matthew Rossi, Stefano Paraboschi
 
-##### The Paper will be presented at:&nbsp;<a href="https://asiaccs2023.org/" target="_blank">AsiaCCS 2023</a>
+##### The Paper has been presented at:&nbsp;<a href="https://asiaccs2023.org/" target="_blank">AsiaCCS 2023</a>
 
 ##### <a href="https://cs.unibg.it/seclab-papers/2023/ASIACCS/poster/enhance-wasm-sandbox.pdf" target="_blank">Link to PDF</a>
