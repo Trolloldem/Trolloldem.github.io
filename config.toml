@@ -35,7 +35,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   defaultTheme = "dark"
 
 [params.footer]
-    trademark = true
+    trademark = 2023
     author = true
     copyright = true 
     rss = true
