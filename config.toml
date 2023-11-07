@@ -6,6 +6,8 @@ paginate     = 10
 
 pluralizelisttitles = false
 
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -32,19 +34,27 @@ pluralizelisttitles = false
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-  # Social icons
-  [[params.social]]
+[params.footer]
+    trademark = true
+    author = true
+    copyright = true 
+    rss = true
+    topText = ["Powered by <a href=\"http://gohugo.io\">Hugo</a>"]
+    bottomText =  ["Hugo <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">theme</a> made by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"]
+
+
+# Social icons
+  [[params.SocialIcons]]
     name = "github"
     url = "https://github.com/Trolloldem"
 
-  [[params.social]]
+  [[params.SocialIcons]]
       name = "linkedin"
       url = "https://www.linkedin.com/in/gianluca-oldani-632100168/"
 
-  [[params.social]]
+  [[params.SocialIcons]]
       name = "stackoverflow"
       url = "https://stackoverflow.com/users/14083453/trolloldem"
-
 
 [author]
     name = "Gianluca Oldani"
@@ -59,7 +69,6 @@ pluralizelisttitles = false
     title = "Gianluca Oldani's website"
     subtitle = "A simple personal space about me"
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
